@@ -17,7 +17,7 @@
 📫 Reach me : bo373@naver.com <br>
 🌱 I'm also trying to practice in : [bky373](https://github.com/bky373)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbky373%2Fhit-counter&count_bg=%23FF4EB6&title_bg=%23555555&icon=&icon_color=%23F934A8&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbbFactory%2Fhit-counter&count_bg=%23FF4EB6&title_bg=%23555555&icon=&icon_color=%23F934A8&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)
 <!--
 Here are some ideas to get you started:
 
