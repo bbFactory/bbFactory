@@ -13,6 +13,8 @@
 </p>
 <br>
 
+![snake gif](https://github.com/bbFactory/bbFactory/blob/output/github-contribution-grid-snake.gif)
+
 ### About More:
 📫 Reach me : bo373@naver.com <br>
 🌱 I'm also trying to practice in : [bky373](https://github.com/bky373)
